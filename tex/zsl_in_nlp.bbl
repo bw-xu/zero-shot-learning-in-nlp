@@ -1,0 +1,294 @@
+\begin{thebibliography}{10}
+
+\bibitem{wang2019survey}
+Wei Wang, Vincent~W Zheng, Han Yu, and Chunyan Miao.
+\newblock A survey of zero-shot learning: Settings, methods, and applications.
+\newblock {\em ACM Transactions on Intelligent Systems and Technology (TIST)},
+  10(2):1--37, 2019.
+
+\bibitem{mikolov2013exploiting}
+Tomas Mikolov, Quoc~V Le, and Ilya Sutskever.
+\newblock Exploiting similarities among languages for machine translation.
+\newblock {\em arXiv preprint arXiv:1309.4168}, 2013.
+
+\bibitem{nakashole2017knowledge}
+Ndapandula Nakashole and Raphael Flauger.
+\newblock Knowledge distillation for bilingual dictionary induction.
+\newblock In {\em Proceedings of the 2017 conference on empirical methods in
+  natural language processing}, pages 2497--2506, 2017.
+
+\bibitem{firat2016zero}
+Orhan Firat, Baskaran Sankaran, Yaser Al-Onaizan, Fatos T~Yarman Vural, and
+  Kyunghyun Cho.
+\newblock Zero-resource translation with multi-lingual neural machine
+  translation.
+\newblock {\em arXiv preprint arXiv:1606.04164}, 2016.
+
+\bibitem{johnson2017google}
+Melvin Johnson, Mike Schuster, Quoc~V Le, Maxim Krikun, Yonghui Wu, Zhifeng
+  Chen, Nikhil Thorat, Fernanda Vi{\'e}gas, Martin Wattenberg, Greg Corrado,
+  et~al.
+\newblock Google’s multilingual neural machine translation system: Enabling
+  zero-shot translation.
+\newblock {\em Transactions of the Association for Computational Linguistics},
+  5:339--351, 2017.
+
+\bibitem{al2019consistency}
+Maruan Al-Shedivat and Ankur~P Parikh.
+\newblock Consistency by agreement in zero-shot neural machine translation.
+\newblock {\em arXiv preprint arXiv:1904.02338}, 2019.
+
+\bibitem{zheng2017maximum}
+Hao Zheng, Yong Cheng, and Yang Liu.
+\newblock Maximum expected likelihood estimation for zero-resource neural
+  machine translation.
+\newblock In {\em IJCAI}, pages 4251--4257, 2017.
+
+\bibitem{chen2017teacher}
+Yun Chen, Yang Liu, Yong Cheng, and Victor~OK Li.
+\newblock A teacher-student framework for zero-resource neural machine
+  translation.
+\newblock {\em arXiv preprint arXiv:1705.00753}, 2017.
+
+\bibitem{sestorain2018zero}
+Lierni Sestorain, Massimiliano Ciaramita, Christian Buck, and Thomas Hofmann.
+\newblock Zero-shot dual machine translation.
+\newblock {\em arXiv preprint arXiv:1805.10338}, 2018.
+
+\bibitem{gu2018universal}
+Jiatao Gu, Hany Hassan, Jacob Devlin, and Victor~OK Li.
+\newblock Universal neural machine translation for extremely low resource
+  languages.
+\newblock {\em arXiv preprint arXiv:1802.05368}, 2018.
+
+\bibitem{he2016dual}
+Di~He, Yingce Xia, Tao Qin, Liwei Wang, Nenghai Yu, Tie-Yan Liu, and Wei-Ying
+  Ma.
+\newblock Dual learning for machine translation.
+\newblock In {\em Advances in neural information processing systems}, pages
+  820--828, 2016.
+
+\bibitem{chen2018zero}
+Yun Chen, Yang Liu, and Victor~OK Li.
+\newblock Zero-resource neural machine translation with multi-agent
+  communication game.
+\newblock In {\em Thirty-Second AAAI Conference on Artificial Intelligence},
+  2018.
+
+\bibitem{gu2019improved}
+Jiatao Gu, Yong Wang, Kyunghyun Cho, and Victor~OK Li.
+\newblock Improved zero-shot neural machine translation via ignoring spurious
+  correlations.
+\newblock {\em arXiv preprint arXiv:1906.01181}, 2019.
+
+\bibitem{ferreira2015zero}
+Emmanuel Ferreira, Bassam Jabaian, and Fabrice Lef{\`e}vre.
+\newblock Zero-shot semantic parser for spoken language understanding.
+\newblock In {\em Sixteenth Annual Conference of the International Speech
+  Communication Association}, 2015.
+
+\bibitem{yazdani2015model}
+Majid Yazdani and James Henderson.
+\newblock A model of zero-shot learning of spoken language understanding.
+\newblock In {\em Proceedings of the 2015 Conference on Empirical Methods in
+  Natural Language Processing}, pages 244--249, 2015.
+
+\bibitem{sadamitsu2017zero}
+Kugatsu Sadamitsu, Yukinori Homma, Ryuichiro Higashinaka, and Yoshihiro Matsuo.
+\newblock Zero-shot learning for natural language understanding using
+  domain-independent sequential structure and question types.
+\newblock In {\em INTERSPEECH}, pages 3306--3310, 2017.
+
+\bibitem{bapna2017towards}
+Ankur Bapna, Gokhan Tur, Dilek Hakkani-Tur, and Larry Heck.
+\newblock Towards zero-shot frame semantic parsing for domain scaling.
+\newblock {\em arXiv preprint arXiv:1707.02363}, 2017.
+
+\bibitem{herzig2018decoupling}
+Jonathan Herzig and Jonathan Berant.
+\newblock Decoupling structure and lexicon for zero-shot semantic parsing.
+\newblock {\em arXiv preprint arXiv:1804.07918}, 2018.
+
+\bibitem{lee2019zero}
+Sungjin Lee and Rahul Jha.
+\newblock Zero-shot adaptive transfer for conversational language
+  understanding.
+\newblock In {\em Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~33, pages 6642--6649, 2019.
+
+\bibitem{ferreira2015online}
+Emmanuel Ferreira, Bassam Jabaian, and Fabrice Lefevre.
+\newblock Online adaptative zero-shot learning spoken language understanding
+  using word-embedding.
+\newblock In {\em 2015 IEEE International Conference on Acoustics, Speech and
+  Signal Processing (ICASSP)}, pages 5321--5325. IEEE, 2015.
+
+\bibitem{ferreira2016adversarial}
+Emmanuel Ferreira, Alexandre~Reiffers Masson, Bassam Jabaian, and Fabrice
+  Lef{\`e}vre.
+\newblock Adversarial bandit for online interactive active learning of
+  zero-shot spoken language understanding.
+\newblock In {\em 2016 IEEE International Conference on Acoustics, Speech and
+  Signal Processing (ICASSP)}, pages 6155--6159. IEEE, 2016.
+
+\bibitem{pasupat2014zero}
+Panupong Pasupat and Percy Liang.
+\newblock Zero-shot entity extraction from web pages.
+\newblock In {\em Proceedings of the 52nd Annual Meeting of the Association for
+  Computational Linguistics (Volume 1: Long Papers)}, pages 391--401, 2014.
+
+\bibitem{guerini2018toward}
+Marco Guerini, Simone Magnolini, Vevake Balaraman, and Bernardo Magnini.
+\newblock Toward zero-shot entity recognition in task-oriented conversational
+  agents.
+\newblock In {\em Proceedings of the 19th Annual SIGdial Meeting on Discourse
+  and Dialogue}, pages 317--326, 2018.
+
+\bibitem{ma2016label}
+Yukun Ma, Erik Cambria, and Sa~Gao.
+\newblock Label embedding for zero-shot fine-grained named entity typing.
+\newblock In {\em Proceedings of COLING 2016, the 26th International Conference
+  on Computational Linguistics: Technical Papers}, pages 171--180, 2016.
+
+\bibitem{obeidat2019description}
+Rasha Obeidat, Xiaoli Fern, Hamed Shahbazi, and Prasad Tadepalli.
+\newblock Description-based zero-shot fine-grained entity typing.
+\newblock In {\em Proceedings of the 2019 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies, Volume 1 (Long and Short Papers)}, pages 807--814, 2019.
+
+\bibitem{zhou2019zero}
+Ben Zhou, Daniel Khashabi, Chen-Tse Tsai, and Dan Roth.
+\newblock Zero-shot open entity typing as type-compatible grounding.
+\newblock {\em arXiv preprint arXiv:1907.03228}, 2019.
+
+\bibitem{zhang2020mzet}
+Tao Zhang, Congying Xia, Chun-Ta Lu, and Philip Yu.
+\newblock Mzet: Memory augmented zero-shot fine-grained named entity typing.
+\newblock {\em arXiv preprint arXiv:2004.01267}, 2020.
+
+\bibitem{levy2017zero}
+Omer Levy, Minjoon Seo, Eunsol Choi, and Luke Zettlemoyer.
+\newblock Zero-shot relation extraction via reading comprehension.
+\newblock {\em arXiv preprint arXiv:1706.04115}, 2017.
+
+\bibitem{jia2020parasitic}
+Shengbin Jia, Yang Xiang, et~al.
+\newblock Parasitic neural network for zero-shot relation extraction.
+\newblock {\em arXiv preprint arXiv:2004.00499}, 2020.
+
+\bibitem{rijhwani2019zero}
+Shruti Rijhwani, Jiateng Xie, Graham Neubig, and Jaime Carbonell.
+\newblock Zero-shot neural transfer for cross-lingual entity linking.
+\newblock In {\em Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~33, pages 6924--6931, 2019.
+
+\bibitem{imrattanatrai2019identifying}
+Wiradee Imrattanatrai, Makoto~P Kato, and Masatoshi Yoshikawa.
+\newblock Identifying entity properties from text with zero-shot learning.
+\newblock In {\em Proceedings of the 42nd International ACM SIGIR Conference on
+  Research and Development in Information Retrieval}, pages 195--204, 2019.
+
+\bibitem{rei2018zero}
+Marek Rei and Anders S{\o}gaard.
+\newblock Zero-shot sequence labeling: Transferring knowledge from sentences to
+  tokens.
+\newblock {\em arXiv preprint arXiv:1805.02214}, 2018.
+
+\bibitem{al2016recovering}
+Ziad Al-Halah, Makarand Tapaswi, and Rainer Stiefelhagen.
+\newblock Recovering the missing link: Predicting class-attribute associations
+  for unsupervised zero-shot learning.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 5975--5984, 2016.
+
+\bibitem{eriguchi2018zero}
+Akiko Eriguchi, Melvin Johnson, Orhan Firat, Hideto Kazawa, and Wolfgang
+  Macherey.
+\newblock Zero-shot cross-lingual classification using multilingual neural
+  machine translation.
+\newblock {\em arXiv preprint arXiv:1809.04686}, 2018.
+
+\bibitem{dauphin2013zero}
+Yann~N Dauphin, Gokhan Tur, Dilek Hakkani-Tur, and Larry Heck.
+\newblock Zero-shot learning for semantic utterance classification.
+\newblock {\em arXiv preprint arXiv:1401.0509}, 2013.
+
+\bibitem{zhang2019integrating}
+Jingqing Zhang, Piyawat Lertvittayakumjorn, and Yike Guo.
+\newblock Integrating semantic knowledge to tackle zero-shot text
+  classification.
+\newblock {\em arXiv preprint arXiv:1903.12626}, 2019.
+
+\bibitem{dai2018multilingual}
+Yaoyao Dai and Benjamin Radford.
+\newblock Multilingual word embedding for zero-shot text classification.
+\newblock In {\em Annual Meeting of the American Political Science Association,
+  Boston}, 2018.
+
+\bibitem{song2019toward}
+Yangqiu Song, Shyam Upadhyay, Haoruo Peng, Stephen Mayhew, and Dan Roth.
+\newblock Toward any-language zero-shot topic classification of textual
+  documents.
+\newblock {\em Artificial Intelligence}, 274:133--150, 2019.
+
+\bibitem{xia2018zero}
+Congying Xia, Chenwei Zhang, Xiaohui Yan, Yi~Chang, and Philip~S Yu.
+\newblock Zero-shot user intent detection via capsule neural networks.
+\newblock {\em arXiv preprint arXiv:1809.00385}, 2018.
+
+\bibitem{williams2019zero}
+Kyle Williams.
+\newblock Zero shot intent classification using long-short term memory
+  networks.
+\newblock {\em Proc. Interspeech 2019}, pages 844--848, 2019.
+
+\bibitem{dethlefs2017domain}
+Nina Dethlefs.
+\newblock Domain transfer for deep natural language generation from abstract
+  meaning representations.
+\newblock {\em IEEE computational intelligence magazine}, 12(3):18--28, 2017.
+
+\bibitem{shen2018zero}
+Shi-qi Shen, Yun Chen, Cheng Yang, Zhi-yuan Liu, Mao-song Sun, et~al.
+\newblock Zero-shot cross-lingual neural headline generation.
+\newblock {\em IEEE/ACM Transactions on Audio, Speech, and Language
+  Processing}, 26(12):2319--2327, 2018.
+
+\bibitem{duan2019zero}
+Xiangyu Duan, Mingming Yin, Min Zhang, Boxing Chen, and Weihua Luo.
+\newblock Zero-shot cross-lingual abstractive sentence summarization through
+  teaching generation and attention.
+\newblock In {\em Proceedings of the 57th Annual Meeting of the Association for
+  Computational Linguistics}, pages 3162--3172, 2019.
+
+\bibitem{elsahar2018zero}
+Hady Elsahar, Christophe Gravier, and Frederique Laforest.
+\newblock Zero-shot question generation from knowledge graphs for unseen
+  predicates and entity types.
+\newblock {\em arXiv preprint arXiv:1802.06842}, 2018.
+
+\bibitem{zhao2018zero}
+Tiancheng Zhao and Maxine Eskenazi.
+\newblock Zero-shot dialog generation with cross-domain latent actions.
+\newblock {\em arXiv preprint arXiv:1805.04803}, 2018.
+
+\bibitem{shah2019robust}
+Darsh~J Shah, Raghav Gupta, Amir~A Fayazi, and Dilek Hakkani-Tur.
+\newblock Robust zero-shot cross-domain slot filling with example values.
+\newblock {\em arXiv preprint arXiv:1906.06870}, 2019.
+
+\bibitem{funaki2015image}
+Ruka Funaki and Hideki Nakayama.
+\newblock Image-mediated learning for zero-shot cross-lingual document
+  retrieval.
+\newblock In {\em Proceedings of the 2015 Conference on Empirical Methods in
+  Natural Language Processing}, pages 585--590, 2015.
+
+\bibitem{schuster2019cross}
+Tal Schuster, Ori Ram, Regina Barzilay, and Amir Globerson.
+\newblock Cross-lingual alignment of contextual word embeddings, with
+  applications to zero-shot dependency parsing.
+\newblock {\em arXiv preprint arXiv:1902.09492}, 2019.
+
+\end{thebibliography}
